@@ -1,0 +1,3 @@
+C:\Users\prana\source\repos\Classroom management system\Classroom management system\x64\Debug\Classroom management system.vcxproj.AssemblyReference.cache
+C:\Users\prana\source\repos\Classroom management system\Classroom management system\x64\Debug\Classroom_management_system.Form1.resources
+C:\Users\prana\source\repos\Classroom management system\Classroom management system\x64\Debug\Classroom management system.vcxproj.GenerateResource.cache
